@@ -1,2 +1,16 @@
 Hello World
 added line number2
+
+
+Git commands
+--------------
+
+Git add <filename> to add changes to working directory
+git commit -m "commit message" to move changes from WD to Local repo
+git push
+
+git clone "to get repositroy from remote ""first time only"
+
+git pull "to get latest chnges"
+
+PAT token "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"
